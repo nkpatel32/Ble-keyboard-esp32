@@ -46,8 +46,8 @@ This project uses an **ESP32 microcontroller** and an **RFID module** (e.g., MFR
 
 1. **Clone the project**:
    ```bash
-   git clone https://github.com/yourusername/esp32-rfid-ble.git
-   cd esp32-rfid-ble
+git clone https://github.com/nkpatel32/Ble-keyboard-esp32.git
+cd esp32-rfid-ble
 
 2. Open with VS Code + PlatformIO extension
 
